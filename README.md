@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pandit</h1>
 <h3 align="center">A Passionate Full Stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/image-cartoon-programmer-man-sitting-front-computer-smiling_1234686-452.jpg?size=626&ext=jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpanditr&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpanditr" /> </p>
 
