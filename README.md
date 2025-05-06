@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/gaurav33828" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav33828?logo=twitter&style=for-the-badge" alt="gaurav33828" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Next Js**
 
 - 📫 How to reach me **gauravPandit7856@gmail.com**
 
